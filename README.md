@@ -1,0 +1,1 @@
+# Komponentowe2018
