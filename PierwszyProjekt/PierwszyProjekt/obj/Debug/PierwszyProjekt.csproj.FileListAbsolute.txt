@@ -1,0 +1,9 @@
+Z:\PierwszyProjekt\PierwszyProjekt\bin\Debug\PierwszyProjekt.exe.config
+Z:\PierwszyProjekt\PierwszyProjekt\bin\Debug\PierwszyProjekt.exe
+Z:\PierwszyProjekt\PierwszyProjekt\bin\Debug\PierwszyProjekt.pdb
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.csprojResolveAssemblyReference.cache
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.Form1.resources
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.Properties.Resources.resources
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.csproj.GenerateResource.Cache
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.exe
+Z:\PierwszyProjekt\PierwszyProjekt\obj\Debug\PierwszyProjekt.pdb
