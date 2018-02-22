@@ -1,0 +1,9 @@
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\bin\Debug\ProgramZZamianaPol.exe.config
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.csprojResolveAssemblyReference.cache
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.Form1.resources
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.Properties.Resources.resources
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.csproj.GenerateResource.Cache
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\bin\Debug\ProgramZZamianaPol.exe
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\bin\Debug\ProgramZZamianaPol.pdb
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.exe
+Z:\ProgramZZamianaPol\ProgramZZamianaPol\obj\Debug\ProgramZZamianaPol.pdb
