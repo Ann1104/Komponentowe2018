@@ -1,0 +1,9 @@
+Z:\zaj5\zaj5\bin\Debug\zaj5.exe.config
+Z:\zaj5\zaj5\bin\Debug\zaj5.exe
+Z:\zaj5\zaj5\bin\Debug\zaj5.pdb
+Z:\zaj5\zaj5\obj\Debug\zaj5.csprojResolveAssemblyReference.cache
+Z:\zaj5\zaj5\obj\Debug\zaj5.Form1.resources
+Z:\zaj5\zaj5\obj\Debug\zaj5.Properties.Resources.resources
+Z:\zaj5\zaj5\obj\Debug\zaj5.csproj.GenerateResource.Cache
+Z:\zaj5\zaj5\obj\Debug\zaj5.exe
+Z:\zaj5\zaj5\obj\Debug\zaj5.pdb
