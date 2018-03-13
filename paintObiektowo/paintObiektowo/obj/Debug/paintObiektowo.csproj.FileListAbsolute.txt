@@ -1,0 +1,5 @@
+Z:\paintObiektowo\paintObiektowo\bin\Debug\paintObiektowo.exe.config
+Z:\paintObiektowo\paintObiektowo\obj\Debug\paintObiektowo.csprojResolveAssemblyReference.cache
+Z:\paintObiektowo\paintObiektowo\obj\Debug\paintObiektowo.Form1.resources
+Z:\paintObiektowo\paintObiektowo\obj\Debug\paintObiektowo.Properties.Resources.resources
+Z:\paintObiektowo\paintObiektowo\obj\Debug\paintObiektowo.csproj.GenerateResource.Cache
