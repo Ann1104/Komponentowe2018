@@ -1,0 +1,18 @@
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.exe.config
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.exe
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.pdb
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.csprojResolveAssemblyReference.cache
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.Properties.Resources.resources
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.csproj.GenerateResource.Cache
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.exe
+c:\users\kleks\documents\visual studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.pdb
+C:\Users\kleks\Documents\Visual Studio 2015\Projects\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.OknoProgramu.resources
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.exe.config
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.exe
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.pdb
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.exe
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\bin\Debug\MiniPaintWektorowo.pdb
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.csprojResolveAssemblyReference.cache
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.OknoProgramu.resources
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.Properties.Resources.resources
+Z:\MiniPaintWektorowo\MiniPaintWektorowo\obj\Debug\MiniPaintWektorowo.csproj.GenerateResource.Cache
