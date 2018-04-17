@@ -1,0 +1,10 @@
+Z:\WykresyPart2\WykresyPart2\bin\Debug\WykresyPart2.exe.config
+Z:\WykresyPart2\WykresyPart2\bin\Debug\WykresyPart2.exe
+Z:\WykresyPart2\WykresyPart2\bin\Debug\WykresyPart2.pdb
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.csprojResolveAssemblyReference.cache
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.Form1.resources
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.Properties.Resources.resources
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.csproj.GenerateResource.Cache
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.exe
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.pdb
+Z:\WykresyPart2\WykresyPart2\obj\Debug\WykresyPart2.UserControlFunkcja.resources
